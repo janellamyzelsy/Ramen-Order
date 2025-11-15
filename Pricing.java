@@ -2,8 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cs0070.ts21.sa2;
-
 /**
  *
  * @author Janella Myzel B. Sy
@@ -17,3 +15,4 @@ public interface Pricing {
     public double TotalPrice (String size); 
     public double TotalPrice (String size, int extra); 
 }
+

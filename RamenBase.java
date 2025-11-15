@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package cs0070.ts21.sa2;
 
 /**
  *
@@ -16,3 +15,4 @@ public interface RamenBase {
     public String Flavor (String r_Flavor); 
     public String Size (String r_Size); 
 }
+

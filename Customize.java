@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package cs0070.ts21.sa2;
 
 /**
  *
@@ -68,3 +67,4 @@ public abstract class Customize {
     protected abstract String soupSauce(String c_sauce);
     protected abstract String soupGarlic(String c_garlic);
 }
+
